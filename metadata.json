@@ -1,0 +1,6 @@
+{
+  "name": "AgriNova",
+  "description": "Smart precision agritech platform with real-time IoT soil telemetry, micro-climate alerts, AI crop doctor diagnostics, crop recommendations, and direct farmer-to-buyer marketplace.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
